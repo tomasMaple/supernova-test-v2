@@ -3,7 +3,7 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-const semantic_color_action_bg = '#4299e1';
+const semantic_color_action_bg = '#ed64a6';
 const semantic_color_action_fg = '#ffffff';
 const semantic_color_bg_primary = '#000000';
 const button_color_background = semantic_color_action_bg;
